@@ -1,0 +1,11 @@
+{
+     "aps" : {
+        "alert" : {
+            "title" : "Push Notification's",
+            "body" : "In App Notification !!!"
+        },
+        "badge" : 0
+    },
+    "Simulator Target Bundle": "com.codewithkyo.DynamicIslandAnimation"
+    
+}
